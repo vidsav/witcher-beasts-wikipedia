@@ -1,4 +1,4 @@
-export const memoryCardsData = [
+export const _data = [
     {
         "id": "0",
         "name":"Bear",
